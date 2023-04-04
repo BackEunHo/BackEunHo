@@ -25,11 +25,17 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!--html5-->
 <img src="https://img.shields.io/badge/css-3776AB?style=for-the-badge&logo=css3&logoColor=white"> <!--css3-->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><!--javascript-->
+<img src="https://img.shields.io/badge/jquery-3776AB?style=for-the-badge&logo=jquery&logoColor=white"> <!--jquery-->
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><!--Node.js-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><!--MYSQL-->
+</p>
+
+<p align = "center">
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><!--tensorflow-->
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"><!--opencv-->
 </p>
 
 <p align="center">
